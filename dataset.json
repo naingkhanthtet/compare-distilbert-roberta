@@ -1,0 +1,152 @@
+[
+  {
+    "context": "Shwe Dagon Bagoda is located in Myanmar, Yangon.",
+    "question": "Where is the Shwe Dagon located?",
+    "answer": ["Myanmar, Yangon"]
+  },
+  {
+    "context": "Apple is a computer company",
+    "question": "What is Apple?",
+    "answer": ["a computer company"]
+  },
+  {
+    "context": "Jason was born on May 15, 2003",
+    "question": "When did Jason was born?",
+    "answer": ["May 15, 2003"]
+  },
+  {
+    "context": "IMU is located in Hledan",
+    "question": "Where is IMU?",
+    "answer": ["Hledan"]
+  },
+  {
+    "context": "May is the sister of Jason",
+    "question": "Who is May?",
+    "answer": ["sister of Jason"]
+  },
+  {
+    "context": "Interstellar is the Christopher Nolan's film",
+    "question": "Who made the Interstellar",
+    "answer": ["Christopher Nolan"]
+  },
+  {
+    "context": "Jason went to Germany to study Computer Science",
+    "question": "Why did Jason go to Germany?",
+    "answer": ["to study Computer Science"]
+  },
+  {
+    "context": "Jason's mother has a fever",
+    "question": "What does Jason's mother have?",
+    "answer": ["a fever"]
+  },
+  {
+    "context": "Travis Scott rapped about his daughter",
+    "question": "What did the Travis Scott rap about?",
+    "answer": ["his daughter"]
+  },
+  {
+    "context": "May went to the Club",
+    "question": "Where did May go?",
+    "answer": ["the Club"]
+  },
+  {
+    "context": "Post Malone is into the Country Music.",
+    "question": "Which music category does Post Malone into?",
+    "answer": ["the Country Music"]
+  },
+  {
+    "context": "IntelliJ is the Java IDE",
+    "question": "What is IntelliJ?",
+    "answer": ["the Java IDE"]
+  },
+  {
+    "context": "Scott went to the supermarket at 10 AM",
+    "question": "When did Scott go?",
+    "answer": ["10 AM"]
+  },
+  {
+    "context": "Steve didn't go to school because he got a fever",
+    "question": "What happened to Steve?",
+    "answer": ["a fever"]
+  },
+  {
+    "context": "Red Power Ranger is the leader of a team",
+    "question": "What is the Read Power Ranger?",
+    "answer": ["the leader of a team"]
+  },
+  {
+    "context": "That donut is Jason's.",
+    "question": "Whose donut is that?",
+    "answer": ["Jason"]
+  },
+  {
+    "context": "Johnathan's mother passed away at Monday.",
+    "question": "When did Johnathan's mother die?",
+    "answer": ["Monday"]
+  },
+  {
+    "context": "Adobe made the Photoshop software",
+    "question": "What did Adobe do?",
+    "answer": ["the Photoshop software"]
+  },
+  {
+    "context": "Steve and Jason made the Python project",
+    "question": "What did Steve make?",
+    "answer": ["the Python project"]
+  },
+  {
+    "context": "iPhone has the browser, the cellular and the Music.",
+    "question": "What does iPhone do?",
+    "answer": ["the browser, the cellular and the Music"]
+  },
+  {
+    "context": "iPad doesn't have a built-in Calculator app.",
+    "question": "What doesn't iPad have?",
+    "answer": ["a built-in Calculator app"]
+  },
+  {
+    "context": "Jason could not come to the festival, he has chores to do.",
+    "question": "Why can't Jason come to the festival?",
+    "answer": ["He has chores to do."]
+  },
+  {
+    "context": "Apple bought Beats by Dre in July 2014.",
+    "question": "When did Apply buy Beats?",
+    "answer": ["in July 2014"]
+  },
+  {
+    "context": "Jetbrains made the IntelliJ JAVA IDE",
+    "question": "Who made IntelliJ",
+    "answer": ["Jetbrains"]
+  },
+  {
+    "context": "Mac computers have better animation than Windows computers",
+    "question": "Which computers have better animation?",
+    "answer": ["Mac computers"]
+  },
+  {
+    "context": "Francis Ford Coppola had a problem with Soldiers while filming the Apocalypse Now film.",
+    "question": "What happened to Francis while filming?",
+    "answer": ["had a problem with Soldiers"]
+  },
+  {
+    "context": "World Cup 2026 will be at USA.",
+    "question": "Where will the World Cup 2026 be?",
+    "answer": ["at USA"]
+  },
+  {
+    "context": "Jason had to cut off Social Media because it was too addictive.",
+    "question": "Why did Jason cut off Social Media?",
+    "answer": ["it was too addictive"]
+  },
+  {
+    "context": "Poor Things film was directed by Yorgos Lanthimos",
+    "question": "Who made Poor Things?",
+    "answer": ["Yorgos Lanthimos"]
+  },
+  {
+    "context": "Oppenheimer won Oscar for the Best Picture award.",
+    "question": "Which film won the Best Picture award Oscar.",
+    "answer": ["Oppenheimer"]
+  }
+]
